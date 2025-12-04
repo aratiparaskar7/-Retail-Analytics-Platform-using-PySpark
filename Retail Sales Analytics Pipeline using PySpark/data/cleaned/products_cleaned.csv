@@ -1,0 +1,1001 @@
+product_id,sku,product_name,category
+56,SKU56,Keyboard,Furniture
+775,SKU775,Mobile Phone,Electronics
+60,SKU60,Charger,Kitchen
+4,SKU-4,Sofa,Home
+478,SKU-478,Router,Kitchen
+501,SKU501,Nan,Electronics
+771,SKU_771,Nan,Nan
+786,SKU786,Smart Tv,Electronics
+704,SKU704,Dslr,Home
+108,SKU108,Mobile Phone,Books
+652,SKU_652,Sofa,Home
+116,SKU_116,Nan,Nan
+887,NAN,Fiction Book,Clothing
+318,SKU_318,Headphones,Electronics
+430,SKU430,Chair,Clothing
+420,SKU420,Sofa,Home
+13,SKU_13,Graphics Card,Nan
+614,NAN,Sofa,Home
+989,SKU989,Perfume,Electronics
+677,SKU-677,Nan,Clothing
+961,SKU961,Chair,Electronics
+223,SKU-223,Router,Nan
+354,SKU354,Fiction Book,Nan
+104,SKU104,Headphones,Nan
+841,SKU841,Fiction Book,Clothing
+943,SKU943,Notebook,Nan
+674,SKU-674,Smartwatch,Home
+562,NAN,Shirt,Kitchen
+8,SKU-8,Fiction Book,Home
+905,SKU905,Graphics Card,Electronics
+213,SKU-213,Hard Disk,Appliances
+84,SKU84,Hard Disk,Home
+923,SKU923,Processor,Electronics
+944,SKU944,Nan,Furniture
+37,SKU37,Gaming Chair,Books
+499,SKU_499,Led Bulb,Appliances
+39,SKU39,Router,Appliances
+94,SKU94,Television,Electronics
+403,SKU403,Fiction Book,Furniture
+363,SKU363,Monitor,Kitchen
+333,NAN,Tablet,Books
+276,SKU_276,Usb Cable,Appliances
+244,SKU244,Keyboard,Kitchen
+65,SKU65,Television,Clothing
+960,SKU960,Usb Cable,Clothing
+875,NAN,Nan,Home
+879,NAN,Watch,Clothing
+712,NAN,Hard Disk,Kitchen
+33,SKU-33,Nan,Electronics
+476,SKU476,Trousers,Electronics
+471,SKU471,Camera,Books
+473,SKU_473,Shirt,Electronics
+6,SKU6,Nan,Clothing
+5,NAN,Television,Home
+347,SKU_347,Gaming Chair,Home
+481,SKU-481,Nan,Books
+259,SKU_259,Usb Cable,Home
+827,SKU827,Water Bottle,Clothing
+618,SKU618,Nan,Clothing
+47,SKU_47,Smartwatch,Appliances
+232,SKU232,Laptop,Clothing
+319,SKU-319,Cooker,Furniture
+914,SKU-914,Shirt,Electronics
+34,SKU34,Smart Tv,Home
+613,SKU613,Nan,Electronics
+25,SKU25,Jacket,Books
+550,SKU550,Water Bottle,Kitchen
+617,SKU617,Nan,Electronics
+656,NAN,Cooker,Clothing
+717,SKU-717,Mixer Grinder,Kitchen
+286,SKU286,Jeans,Furniture
+863,SKU863,Bluetooth Speaker,Nan
+515,NAN,Mouse,Electronics
+741,SKU741,Keyboard,Clothing
+691,SKU_691,Water Bottle,Electronics
+635,SKU635,Smartwatch,Nan
+791,NAN,Shirt,Furniture
+985,SKU-985,Nan,Furniture
+981,SKU981,Smart Tv,Electronics
+683,SKU683,Headphones,Appliances
+75,SKU75,Charger,Electronics
+868,SKU868,Usb Cable,Home
+36,SKU_36,Mouse,Kitchen
+70,SKU70,Headphones,Kitchen
+331,NAN,Smartwatch,Kitchen
+968,SKU_968,Tablet,Furniture
+362,SKU-362,Nan,Appliances
+837,SKU837,Television,Clothing
+457,NAN,Notebook,Home
+252,SKU252,Cooker,Furniture
+11,NAN,Notebook,Clothing
+825,NAN,Fiction Book,Nan
+506,SKU506,Nan,Clothing
+938,NAN,Mouse,Clothing
+370,NAN,Bag,Home
+524,SKU524,Microwave,Home
+563,SKU_563,Trousers,Home
+585,SKU_585,Power Bank,Home
+948,SKU948,Graphics Card,Clothing
+100,SKU100,Sofa,Furniture
+215,SKU_215,Mixer Grinder,Clothing
+305,SKU_305,Trousers,Kitchen
+528,SKU_528,Monitor,Electronics
+927,SKU927,Nan,Home
+678,SKU678,Nan,Clothing
+143,SKU_143,Nan,Home
+30,NAN,Mobile Phone,Furniture
+156,SKU156,Microwave,Home
+669,SKU669,Power Bank,Electronics
+144,SKU_144,Ram,Appliances
+636,SKU636,Television,Clothing
+321,SKU-321,Chair,Appliances
+789,SKU789,Nan,Home
+313,SKU_313,Water Bottle,Kitchen
+95,SKU95,Pen Drive,Books
+479,SKU_479,Nan,Clothing
+545,SKU_545,Headphones,Electronics
+106,SKU106,Ram,Home
+372,SKU372,Mouse,Clothing
+434,SKU_434,Mixer Grinder,Nan
+296,SKU296,Nan,Kitchen
+512,SKU512,Tablet,Electronics
+539,SKU_539,Jacket,Clothing
+733,SKU733,Nan,Kitchen
+417,SKU417,Smartwatch,Home
+725,SKU725,Keyboard,Kitchen
+19,SKU19,Shirt,Electronics
+816,NAN,Bluetooth Speaker,Electronics
+882,SKU_882,Microwave,Home
+916,SKU-916,Jeans,Nan
+163,SKU_163,Usb Cable,Electronics
+738,SKU738,Nan,Books
+713,SKU_713,Nan,Furniture
+205,SKU205,Chair,Electronics
+999,SKU999,Gaming Chair,Electronics
+805,SKU805,Jeans,Appliances
+842,SKU_842,Mixer Grinder,Books
+699,SKU_699,Keyboard,Books
+267,NAN,Hard Disk,Home
+74,NAN,Microwave,Clothing
+68,SKU68,Television,Home
+543,SKU543,Smartwatch,Books
+214,SKU214,Dslr,Books
+122,SKU122,Sofa,Clothing
+416,SKU-416,Notebook,Clothing
+23,SKU_23,Television,Clothing
+32,SKU_32,Power Bank,Home
+172,NAN,Nan,Clothing
+308,SKU_308,Trousers,Home
+625,SKU625,Fiction Book,Nan
+623,SKU623,Notebook,Books
+394,NAN,Led Bulb,Appliances
+348,SKU_348,Headphones,Home
+165,SKU-165,Keyboard,Kitchen
+197,SKU197,Keyboard,Clothing
+397,SKU397,Watch,Books
+42,SKU-42,Trousers,Clothing
+856,SKU856,Led Bulb,Clothing
+503,SKU503,Graphics Card,Furniture
+577,NAN,Nan,Home
+922,NAN,Ram,Appliances
+828,SKU-828,Router,Furniture
+902,SKU902,Nan,Kitchen
+798,SKU798,Bag,Nan
+334,NAN,Nan,Kitchen
+536,SKU-536,Laptop,Home
+24,SKU24,Notebook,Books
+834,NAN,Nan,Home
+490,SKU490,Fiction Book,Home
+844,SKU-844,Mouse,Furniture
+132,SKU_132,Smartwatch,Kitchen
+280,SKU-280,Headphones,Clothing
+793,NAN,Smart Tv,Clothing
+692,SKU-692,Monitor,Clothing
+326,SKU326,Hard Disk,Home
+756,SKU_756,Headphones,Home
+860,SKU860,Graphics Card,Home
+44,NAN,Nan,Electronics
+958,NAN,Nan,Books
+210,SKU210,Usb Cable,Kitchen
+311,NAN,Jeans,Nan
+778,NAN,Led Bulb,Electronics
+809,SKU_809,Nan,Nan
+540,SKU540,Television,Furniture
+120,NAN,Sofa,Electronics
+846,SKU846,Jeans,Appliances
+722,SKU_722,Water Bottle,Books
+549,SKU549,Camera,Furniture
+735,NAN,Dslr,Clothing
+714,SKU-714,Power Bank,Appliances
+246,SKU246,Nan,Electronics
+557,NAN,Tablet,Furniture
+226,SKU226,Nan,Home
+294,SKU294,Keyboard,Electronics
+697,SKU_697,Router,Clothing
+474,SKU474,Router,Books
+658,NAN,Jacket,Furniture
+177,SKU177,Ram,Books
+698,NAN,Mixer Grinder,Kitchen
+124,NAN,Ram,Home
+853,SKU853,Nan,Nan
+112,SKU112,Mobile Phone,Furniture
+723,NAN,Nan,Nan
+772,SKU772,Cooker,Kitchen
+81,SKU-81,Led Bulb,Appliances
+726,SKU_726,Hard Disk,Home
+940,SKU940,Perfume,Electronics
+970,SKU_970,Notebook,Home
+949,SKU949,Nan,Home
+483,SKU483,Nan,Home
+799,SKU799,Monitor,Kitchen
+441,SKU441,Ram,Home
+976,SKU976,Nan,Home
+727,SKU727,Bluetooth Speaker,Books
+142,NAN,Chair,Electronics
+569,SKU569,Trousers,Appliances
+750,SKU_750,Smart Tv,Books
+749,SKU749,Power Bank,Furniture
+821,NAN,Usb Cable,Clothing
+353,SKU353,Keyboard,Home
+638,SKU-638,Mobile Phone,Nan
+980,SKU_980,Perfume,Home
+813,SKU_813,Mouse,Electronics
+411,SKU-411,Tablet,Books
+55,NAN,Power Bank,Appliances
+413,SKU413,Nan,Clothing
+702,SKU702,Watch,Nan
+178,SKU178,Water Bottle,Appliances
+753,SKU753,Laptop,Appliances
+889,SKU889,Dslr,Electronics
+578,SKU_578,Router,Books
+596,SKU596,Router,Home
+98,SKU98,Gaming Chair,Clothing
+133,SKU-133,Cooker,Clothing
+592,SKU_592,Jeans,Appliances
+338,SKU338,Processor,Nan
+253,SKU_253,Bag,Appliances
+102,SKU102,Ram,Nan
+870,SKU_870,Led Bulb,Electronics
+954,SKU954,Nan,Appliances
+767,SKU-767,Nan,Clothing
+593,NAN,Sofa,Nan
+794,SKU_794,Mobile Phone,Electronics
+43,SKU-43,Bag,Clothing
+323,SKU323,Smartwatch,Books
+582,SKU-582,Processor,Kitchen
+576,NAN,Bluetooth Speaker,Appliances
+495,SKU_495,Fiction Book,Clothing
+206,SKU-206,Smartwatch,Clothing
+159,SKU159,Power Bank,Electronics
+777,SKU777,Graphics Card,Clothing
+288,SKU288,Sneakers,Home
+247,SKU-247,Smartwatch,Kitchen
+9,SKU_9,Sneakers,Appliances
+676,SKU676,Pen Drive,Clothing
+619,NAN,Nan,Nan
+933,NAN,Nan,Kitchen
+145,SKU145,Nan,Clothing
+327,SKU327,Camera,Home
+200,SKU_200,Cooker,Clothing
+759,SKU759,Router,Books
+849,SKU_849,Led Bulb,Appliances
+209,SKU209,Pen Drive,Furniture
+62,SKU-62,Microwave,Home
+283,SKU283,Nan,Appliances
+368,NAN,Monitor,Clothing
+781,NAN,Ram,Clothing
+29,SKU_29,Usb Cable,Books
+26,SKU_26,Mouse,Clothing
+298,SKU298,Jeans,Clothing
+533,SKU_533,Ram,Books
+591,NAN,Mouse,Appliances
+903,SKU903,Router,Electronics
+710,NAN,Cooker,Clothing
+391,SKU391,Router,Clothing
+852,SKU852,Usb Cable,Home
+832,SKU832,Shirt,Home
+405,SKU_405,Bluetooth Speaker,Books
+422,SKU-422,Cooker,Electronics
+561,SKU561,Pen Drive,Kitchen
+364,SKU364,Nan,Furniture
+488,SKU488,Shirt,Furniture
+153,SKU153,Pen Drive,Kitchen
+358,SKU-358,Tablet,Nan
+207,SKU_207,Monitor,Clothing
+12,SKU12,Nan,Electronics
+187,SKU187,Power Bank,Books
+46,SKU_46,Television,Home
+456,SKU456,Chair,Nan
+346,SKU346,Processor,Electronics
+878,SKU878,Cooker,Home
+212,SKU212,Notebook,Nan
+783,SKU783,Trousers,Home
+534,SKU_534,Notebook,Clothing
+703,SKU703,Nan,Clothing
+716,SKU_716,Mobile Phone,Nan
+769,SKU-769,Headphones,Nan
+119,SKU119,Smartwatch,Nan
+560,SKU_560,Chair,Electronics
+884,SKU884,Graphics Card,Nan
+612,SKU612,Headphones,Nan
+686,SKU-686,Smart Tv,Clothing
+824,SKU_824,Keyboard,Clothing
+818,NAN,Television,Home
+351,SKU351,Nan,Electronics
+202,SKU-202,Power Bank,Electronics
+509,SKU509,Smart Tv,Furniture
+170,SKU170,Cooker,Nan
+822,SKU822,Nan,Nan
+659,NAN,Watch,Electronics
+622,SKU622,Mouse,Clothing
+930,SKU930,Usb Cable,Nan
+688,SKU688,Mixer Grinder,Appliances
+885,SKU885,Watch,Home
+455,SKU_455,Laptop,Electronics
+977,NAN,Nan,Kitchen
+972,SKU972,Monitor,Electronics
+776,SKU776,Ram,Nan
+696,SKU696,Camera,Electronics
+606,SKU606,Ram,Electronics
+924,SKU924,Sofa,Clothing
+433,SKU433,Graphics Card,Clothing
+718,SKU718,Nan,Books
+598,NAN,Processor,Books
+421,SKU_421,Sofa,Books
+743,SKU743,Television,Clothing
+998,SKU998,Nan,Clothing
+61,NAN,Tablet,Furniture
+942,SKU942,Nan,Clothing
+480,SKU_480,Chair,Electronics
+128,SKU128,Bag,Electronics
+890,SKU890,Headphones,Books
+121,NAN,Router,Kitchen
+317,SKU317,Sofa,Appliances
+746,SKU746,Camera,Electronics
+500,SKU500,Pen Drive,Electronics
+701,SKU_701,Microwave,Home
+459,SKU459,Fiction Book,Home
+984,SKU984,Jacket,Home
+342,NAN,Notebook,Home
+573,SKU573,Charger,Kitchen
+432,SKU-432,Perfume,Furniture
+307,SKU307,Headphones,Nan
+904,SKU904,Watch,Clothing
+387,SKU387,Nan,Clothing
+946,SKU946,Fiction Book,Nan
+773,SKU_773,Usb Cable,Clothing
+877,NAN,Headphones,Kitchen
+3,SKU3,Graphics Card,Furniture
+804,SKU_804,Nan,Nan
+589,SKU589,Mixer Grinder,Appliances
+979,SKU_979,Nan,Home
+951,NAN,Nan,Electronics
+103,SKU103,Smartwatch,Home
+719,NAN,Bag,Clothing
+137,SKU137,Jeans,Home
+680,SKU_680,Power Bank,Clothing
+235,SKU235,Fiction Book,Nan
+862,SKU-862,Router,Electronics
+234,SKU234,Cooker,Electronics
+198,SKU-198,Nan,Kitchen
+53,SKU53,Nan,Electronics
+897,SKU-897,Nan,Kitchen
+840,SKU840,Keyboard,Books
+303,SKU-303,Smart Tv,Kitchen
+231,NAN,Water Bottle,Furniture
+969,SKU969,Notebook,Electronics
+436,NAN,Notebook,Books
+275,SKU275,Mouse,Nan
+689,NAN,Mouse,Clothing
+16,SKU16,Sofa,Electronics
+1,SKU1,Mouse,Nan
+186,SKU186,Sneakers,Nan
+983,SKU-983,Nan,Nan
+732,SKU732,Trousers,Books
+21,SKU-21,Sneakers,Furniture
+50,SKU-50,Perfume,Clothing
+901,NAN,Trousers,Electronics
+171,SKU171,Smartwatch,Clothing
+90,SKU_90,Keyboard,Home
+555,SKU_555,Dslr,Clothing
+823,SKU823,Watch,Electronics
+667,SKU667,Sneakers,Clothing
+243,SKU243,Shirt,Electronics
+445,SKU_445,Nan,Nan
+2,NAN,Watch,Appliances
+654,SKU_654,Keyboard,Electronics
+99,NAN,Mobile Phone,Electronics
+371,SKU371,Laptop,Clothing
+238,SKU_238,Sofa,Furniture
+64,SKU64,Gaming Chair,Electronics
+176,SKU176,Mouse,Kitchen
+734,NAN,Headphones,Kitchen
+38,SKU_38,Keyboard,Home
+892,SKU892,Notebook,Books
+492,SKU_492,Smartwatch,Appliances
+757,SKU-757,Television,Electronics
+431,SKU-431,Nan,Electronics
+997,SKU997,Cooker,Electronics
+624,SKU624,Laptop,Appliances
+785,SKU785,Jeans,Clothing
+700,SKU700,Gaming Chair,Kitchen
+779,NAN,Router,Home
+974,SKU-974,Nan,Appliances
+826,SKU-826,Mouse,Clothing
+963,SKU963,Jeans,Home
+237,SKU-237,Watch,Electronics
+218,SKU218,Ram,Electronics
+485,NAN,Television,Home
+629,SKU-629,Headphones,Home
+836,SKU_836,Nan,Kitchen
+376,SKU376,Charger,Nan
+609,SKU_609,Nan,Home
+740,SKU_740,Notebook,Kitchen
+312,SKU312,Power Bank,Kitchen
+35,NAN,Processor,Home
+291,SKU291,Perfume,Clothing
+957,NAN,Keyboard,Appliances
+58,SKU58,Mouse,Electronics
+854,SKU-854,Charger,Clothing
+693,SKU-693,Nan,Books
+711,SKU711,Headphones,Electronics
+567,SKU567,Television,Clothing
+851,SKU851,Water Bottle,Nan
+396,NAN,Headphones,Kitchen
+497,SKU_497,Jacket,Clothing
+894,SKU_894,Nan,Books
+527,SKU_527,Notebook,Appliances
+510,SKU-510,Power Bank,Home
+14,SKU14,Perfume,Electronics
+706,SKU706,Microwave,Clothing
+344,NAN,Power Bank,Electronics
+782,NAN,Power Bank,Electronics
+201,SKU201,Mobile Phone,Clothing
+57,SKU57,Nan,Clothing
+293,SKU293,Perfume,Electronics
+28,NAN,Processor,Kitchen
+532,SKU_532,Monitor,Home
+239,SKU239,Charger,Appliances
+222,NAN,Usb Cable,Kitchen
+45,SKU-45,Mobile Phone,Nan
+967,SKU967,Chair,Clothing
+41,SKU41,Dslr,Nan
+182,SKU-182,Hard Disk,Kitchen
+381,SKU381,Mouse,Clothing
+912,SKU912,Charger,Appliances
+414,SKU_414,Nan,Appliances
+169,SKU169,Hard Disk,Books
+765,SKU-765,Sneakers,Home
+758,SKU758,Camera,Electronics
+295,SKU295,Nan,Home
+937,SKU-937,Mobile Phone,Appliances
+801,SKU801,Nan,Electronics
+17,SKU-17,Watch,Clothing
+89,NAN,Tablet,Books
+188,SKU188,Cooker,Clothing
+265,SKU-265,Monitor,Home
+810,SKU810,Trousers,Kitchen
+185,SKU_185,Notebook,Appliances
+650,NAN,Chair,Electronics
+665,SKU665,Mouse,Books
+350,SKU_350,Chair,Electronics
+274,SKU274,Mixer Grinder,Clothing
+571,SKU-571,Pen Drive,Clothing
+780,SKU_780,Bluetooth Speaker,Furniture
+751,SKU-751,Laptop,Clothing
+87,SKU87,Nan,Clothing
+736,SKU736,Sofa,Clothing
+79,SKU79,Shirt,Furniture
+514,SKU-514,Nan,Appliances
+603,SKU_603,Watch,Furniture
+404,SKU404,Monitor,Clothing
+204,SKU204,Fiction Book,Nan
+517,SKU517,Sneakers,Clothing
+248,SKU248,Cooker,Electronics
+399,SKU399,Mixer Grinder,Electronics
+570,SKU570,Perfume,Books
+96,SKU96,Router,Kitchen
+465,SKU465,Shirt,Electronics
+167,SKU167,Dslr,Home
+574,SKU574,Led Bulb,Appliances
+850,SKU850,Nan,Nan
+553,SKU_553,Chair,Appliances
+487,SKU487,Mobile Phone,Home
+649,SKU_649,Dslr,Home
+357,SKU_357,Bag,Kitchen
+335,SKU335,Bluetooth Speaker,Home
+861,NAN,Trousers,Home
+643,SKU643,Graphics Card,Electronics
+402,SKU-402,Nan,Kitchen
+542,SKU-542,Television,Books
+429,SKU-429,Sofa,Books
+369,SKU_369,Power Bank,Electronics
+192,SKU192,Usb Cable,Furniture
+224,SKU224,Nan,Clothing
+891,SKU891,Camera,Nan
+20,NAN,Gaming Chair,Books
+442,SKU-442,Chair,Kitchen
+340,NAN,Pen Drive,Clothing
+349,SKU349,Trousers,Electronics
+795,NAN,Nan,Books
+179,SKU_179,Smart Tv,Furniture
+427,SKU_427,Nan,Nan
+460,SKU460,Smartwatch,Electronics
+54,SKU54,Jeans,Appliances
+537,NAN,Pen Drive,Home
+583,NAN,Hard Disk,Home
+909,SKU909,Usb Cable,Clothing
+838,SKU-838,Shirt,Appliances
+130,SKU_130,Tablet,Electronics
+541,NAN,Watch,Home
+300,NAN,Laptop,Furniture
+597,NAN,Camera,Clothing
+48,SKU48,Ram,Electronics
+523,NAN,Dslr,Appliances
+956,SKU956,Led Bulb,Electronics
+910,SKU-910,Monitor,Kitchen
+764,SKU764,Laptop,Electronics
+339,SKU339,Smart Tv,Clothing
+367,SKU367,Bag,Clothing
+990,SKU990,Laptop,Electronics
+627,SKU-627,Mobile Phone,Furniture
+148,SKU-148,Sneakers,Electronics
+962,SKU962,Sofa,Home
+921,SKU921,Graphics Card,Clothing
+131,NAN,Shirt,Appliances
+913,SKU913,Tablet,Home
+486,SKU486,Microwave,Nan
+682,SKU682,Mixer Grinder,Clothing
+310,SKU310,Nan,Home
+398,SKU398,Bluetooth Speaker,Electronics
+134,SKU134,Fiction Book,Electronics
+115,SKU-115,Processor,Nan
+435,SKU_435,Water Bottle,Clothing
+379,SKU379,Processor,Furniture
+535,SKU535,Nan,Kitchen
+993,SKU993,Laptop,Kitchen
+847,SKU-847,Ram,Clothing
+263,SKU263,Gaming Chair,Home
+982,NAN,Nan,Home
+508,SKU-508,Router,Electronics
+530,SKU-530,Dslr,Clothing
+721,SKU721,Laptop,Books
+440,SKU-440,Smart Tv,Kitchen
+388,SKU-388,Smartwatch,Books
+126,SKU_126,Laptop,Furniture
+955,SKU-955,Led Bulb,Kitchen
+866,SKU866,Smartwatch,Electronics
+72,SKU72,Nan,Nan
+302,NAN,Pen Drive,Kitchen
+466,SKU_466,Laptop,Home
+332,SKU_332,Router,Furniture
+146,SKU146,Nan,Electronics
+139,SKU139,Fiction Book,Clothing
+559,NAN,Perfume,Electronics
+679,SKU679,Fiction Book,Electronics
+800,SKU800,Nan,Clothing
+645,SKU645,Cooker,Electronics
+361,SKU-361,Jeans,Home
+647,SKU647,Nan,Clothing
+410,NAN,Nan,Home
+69,NAN,Fiction Book,Electronics
+66,NAN,Fiction Book,Books
+83,SKU83,Mouse,Clothing
+315,SKU315,Trousers,Clothing
+125,SKU125,Fiction Book,Furniture
+324,NAN,Nan,Appliances
+988,SKU988,Jacket,Home
+929,NAN,Sneakers,Furniture
+52,SKU52,Nan,Electronics
+477,SKU477,Nan,Clothing
+919,SKU919,Mobile Phone,Clothing
+454,SKU-454,Led Bulb,Books
+641,SKU641,Smartwatch,Clothing
+123,SKU123,Keyboard,Clothing
+814,SKU814,Nan,Books
+93,SKU-93,Hard Disk,Home
+975,SKU975,Graphics Card,Home
+385,SKU_385,Watch,Kitchen
+599,SKU_599,Charger,Clothing
+626,SKU626,Nan,Electronics
+352,SKU352,Fiction Book,Appliances
+763,SKU763,Processor,Books
+494,SKU-494,Usb Cable,Appliances
+249,SKU249,Sofa,Clothing
+190,NAN,Sofa,Home
+437,SKU437,Sneakers,Books
+229,SKU229,Usb Cable,Nan
+634,SKU-634,Headphones,Electronics
+964,NAN,Bag,Books
+551,SKU551,Mobile Phone,Electronics
+815,SKU-815,Nan,Electronics
+754,NAN,Smart Tv,Clothing
+80,SKU80,Ram,Electronics
+900,SKU900,Headphones,Books
+91,SKU91,Nan,Nan
+110,SKU110,Monitor,Nan
+118,SKU118,Television,Electronics
+670,SKU-670,Perfume,Kitchen
+581,SKU581,Hard Disk,Appliances
+27,SKU27,Nan,Electronics
+807,SKU-807,Router,Nan
+996,SKU996,Nan,Home
+408,NAN,Television,Electronics
+450,SKU450,Graphics Card,Home
+663,SKU663,Nan,Furniture
+829,SKU-829,Perfume,Furniture
+155,SKU155,Nan,Books
+447,NAN,Fiction Book,Kitchen
+256,SKU256,Watch,Books
+708,SKU708,Hard Disk,Clothing
+687,SKU687,Power Bank,Appliances
+383,SKU383,Microwave,Clothing
+257,NAN,Smart Tv,Clothing
+660,NAN,Nan,Home
+705,NAN,Power Bank,Home
+760,SKU_760,Nan,Books
+600,SKU_600,Sofa,Clothing
+40,SKU40,Bluetooth Speaker,Electronics
+322,SKU322,Charger,Kitchen
+203,SKU203,Tablet,Furniture
+768,SKU768,Charger,Clothing
+965,NAN,Gaming Chair,Electronics
+770,SKU770,Nan,Electronics
+648,SKU648,Jacket,Books
+748,NAN,Mobile Phone,Home
+140,SKU140,Hard Disk,Nan
+164,SKU-164,Jacket,Kitchen
+462,SKU462,Water Bottle,Home
+632,SKU632,Led Bulb,Kitchen
+297,SKU-297,Watch,Furniture
+360,SKU360,Hard Disk,Kitchen
+15,SKU15,Cooker,Kitchen
+747,SKU-747,Usb Cable,Furniture
+245,SKU_245,Nan,Home
+755,NAN,Bluetooth Speaker,Kitchen
+174,SKU-174,Bluetooth Speaker,Appliances
+220,SKU-220,Fiction Book,Home
+857,SKU-857,Fiction Book,Electronics
+85,NAN,Power Bank,Clothing
+594,NAN,Notebook,Kitchen
+615,SKU_615,Usb Cable,Appliances
+107,SKU_107,Keyboard,Electronics
+657,SKU657,Trousers,Home
+489,SKU489,Led Bulb,Kitchen
+991,SKU991,Keyboard,Electronics
+418,SKU-418,Camera,Electronics
+412,NAN,Nan,Furniture
+608,SKU608,Television,Furniture
+289,SKU289,Keyboard,Nan
+899,SKU-899,Mouse,Furniture
+7,SKU7,Microwave,Clothing
+109,SKU_109,Graphics Card,Furniture
+502,SKU502,Ram,Kitchen
+653,SKU653,Power Bank,Nan
+833,SKU833,Jacket,Furniture
+496,NAN,Jacket,Clothing
+554,SKU_554,Ram,Books
+684,NAN,Usb Cable,Home
+953,NAN,Hard Disk,Home
+881,SKU_881,Trousers,Clothing
+470,SKU470,Nan,Electronics
+272,NAN,Notebook,Electronics
+389,NAN,Nan,Appliances
+63,NAN,Nan,Kitchen
+184,SKU184,Sofa,Clothing
+644,SKU-644,Nan,Home
+467,SKU_467,Dslr,Electronics
+580,NAN,Nan,Clothing
+138,NAN,Pen Drive,Nan
+366,SKU_366,Laptop,Appliances
+250,SKU_250,Smartwatch,Furniture
+564,SKU564,Nan,Books
+424,SKU424,Charger,Nan
+173,SKU173,Mouse,Electronics
+10,SKU10,Smartwatch,Books
+22,SKU22,Camera,Clothing
+762,SKU762,Jeans,Home
+262,SKU262,Fiction Book,Furniture
+651,SKU-651,Shirt,Books
+261,SKU-261,Nan,Furniture
+941,SKU_941,Tablet,Kitchen
+774,SKU774,Nan,Nan
+382,SKU382,Notebook,Clothing
+117,SKU_117,Television,Appliances
+290,SKU_290,Perfume,Clothing
+320,SKU320,Charger,Appliances
+444,SKU444,Sofa,Appliances
+82,SKU82,Trousers,Books
+328,SKU328,Jeans,Appliances
+281,SKU281,Tablet,Electronics
+690,SKU690,Headphones,Home
+633,SKU-633,Microwave,Clothing
+590,SKU590,Graphics Card,Clothing
+666,NAN,Sofa,Clothing
+803,SKU803,Power Bank,Home
+605,SKU-605,Water Bottle,Clothing
+464,SKU464,Nan,Books
+97,SKU97,Dslr,Books
+745,SKU745,Mixer Grinder,Electronics
+788,NAN,Nan,Clothing
+409,SKU-409,Charger,Kitchen
+886,SKU_886,Nan,Clothing
+584,SKU584,Nan,Furniture
+792,SKU_792,Led Bulb,Kitchen
+610,SKU610,Microwave,Clothing
+299,SKU299,Usb Cable,Kitchen
+76,SKU76,Nan,Furniture
+731,SKU731,Dslr,Clothing
+934,SKU_934,Nan,Home
+522,SKU-522,Perfume,Clothing
+672,SKU-672,Water Bottle,Appliances
+287,NAN,Microwave,Books
+947,SKU947,Water Bottle,Electronics
+451,SKU_451,Nan,Home
+419,SKU_419,Bluetooth Speaker,Clothing
+325,SKU_325,Router,Books
+236,SKU-236,Perfume,Home
+548,SKU548,Monitor,Kitchen
+867,SKU_867,Nan,Electronics
+111,SKU111,Nan,Books
+895,SKU895,Pen Drive,Kitchen
+544,SKU-544,Led Bulb,Kitchen
+401,SKU401,Nan,Kitchen
+655,SKU655,Water Bottle,Furniture
+425,SKU_425,Perfume,Appliances
+546,SKU-546,Led Bulb,Books
+228,SKU228,Microwave,Home
+393,SKU-393,Smartwatch,Kitchen
+556,SKU556,Tablet,Furniture
+511,SKU511,Water Bottle,Clothing
+906,NAN,Nan,Home
+491,SKU-491,Mouse,Books
+675,SKU_675,Mouse,Nan
+671,SKU671,Graphics Card,Home
+552,SKU552,Jacket,Electronics
+839,NAN,Fiction Book,Home
+830,SKU-830,Nan,Clothing
+661,SKU661,Camera,Nan
+443,NAN,Nan,Books
+848,SKU848,Nan,Electronics
+808,SKU808,Jeans,Clothing
+151,NAN,Led Bulb,Appliances
+400,SKU400,Smartwatch,Clothing
+987,SKU987,Shirt,Home
+365,SKU365,Gaming Chair,Appliances
+966,NAN,Microwave,Clothing
+819,SKU_819,Laptop,Home
+284,NAN,Ram,Clothing
+227,SKU-227,Sneakers,Nan
+883,SKU883,Sneakers,Nan
+475,SKU475,Cooker,Furniture
+831,SKU831,Bluetooth Speaker,Appliances
+377,SKU377,Smartwatch,Electronics
+802,SKU802,Usb Cable,Appliances
+525,SKU525,Camera,Home
+463,SKU_463,Monitor,Furniture
+611,SKU611,Ram,Nan
+869,SKU869,Mouse,Electronics
+439,SKU439,Graphics Card,Home
+898,SKU-898,Bluetooth Speaker,Electronics
+482,SKU-482,Nan,Furniture
+73,NAN,Nan,Home
+359,SKU359,Nan,Appliances
+373,SKU373,Nan,Home
+345,NAN,Gaming Chair,Nan
+876,SKU_876,Jacket,Electronics
+395,SKU395,Charger,Home
+415,SKU-415,Cooker,Nan
+911,SKU911,Keyboard,Clothing
+939,SKU-939,Smartwatch,Clothing
+278,NAN,Water Bottle,Clothing
+211,SKU-211,Trousers,Clothing
+505,SKU_505,Smartwatch,Home
+449,NAN,Television,Electronics
+518,SKU518,Usb Cable,Kitchen
+566,SKU_566,Watch,Clothing
+908,SKU-908,Notebook,Appliances
+817,SKU817,Mouse,Home
+668,SKU-668,Nan,Kitchen
+572,SKU_572,Mobile Phone,Electronics
+292,SKU_292,Nan,Electronics
+426,SKU426,Nan,Electronics
+579,SKU_579,Pen Drive,Clothing
+254,NAN,Notebook,Home
+513,SKU513,Nan,Books
+282,SKU282,Nan,Home
+150,SKU-150,Mouse,Nan
+452,SKU-452,Smart Tv,Kitchen
+260,SKU260,Mouse,Home
+114,NAN,Jeans,Nan
+129,SKU-129,Monitor,Home
+873,NAN,Keyboard,Furniture
+309,NAN,Smart Tv,Appliances
+428,NAN,Bag,Electronics
+681,SKU_681,Ram,Nan
+31,NAN,Tablet,Home
+341,NAN,Pen Drive,Clothing
+285,NAN,Gaming Chair,Electronics
+157,SKU157,Nan,Books
+859,SKU859,Jacket,Nan
+587,SKU587,Sofa,Clothing
+994,SKU994,Cooker,Kitchen
+258,SKU_258,Processor,Furniture
+183,SKU-183,Bluetooth Speaker,Electronics
+356,SKU356,Trousers,Furniture
+175,SKU175,Trousers,Home
+448,SKU_448,Headphones,Electronics
+498,SKU498,Dslr,Clothing
+602,SKU-602,Dslr,Electronics
+329,SKU-329,Cooker,Home
+166,SKU-166,Bag,Home
+673,SKU-673,Led Bulb,Electronics
+945,SKU-945,Smartwatch,Clothing
+264,SKU264,Tablet,Clothing
+49,SKU49,Smart Tv,Electronics
+59,SKU59,Pen Drive,Kitchen
+189,SKU189,Jeans,Books
+637,SKU_637,Camera,Books
+330,SKU-330,Water Bottle,Electronics
+51,SKU51,Graphics Card,Home
+640,SKU640,Keyboard,Appliances
+730,SKU-730,Watch,Home
+642,SKU-642,Mobile Phone,Furniture
+631,SKU631,Mobile Phone,Electronics
+390,SKU_390,Sofa,Clothing
+928,SKU928,Sneakers,Home
+729,SKU729,Nan,Clothing
+858,SKU858,Sofa,Clothing
+835,NAN,Dslr,Clothing
+601,SKU601,Jacket,Clothing
+558,SKU558,Notebook,Kitchen
+621,SKU_621,Camera,Clothing
+453,SKU_453,Shirt,Clothing
+392,SKU-392,Bluetooth Speaker,Clothing
+896,SKU_896,Jeans,Clothing
+162,SKU162,Led Bulb,Nan
+936,NAN,Trousers,Appliances
+616,SKU-616,Keyboard,Clothing
+77,SKU77,Water Bottle,Furniture
+86,NAN,Dslr,Furniture
+135,SKU_135,Laptop,Home
+761,SKU-761,Nan,Clothing
+595,NAN,Nan,Electronics
+1000,SKU-1000,Tablet,Clothing
+797,SKU797,Jeans,Furniture
+277,NAN,Hard Disk,Home
+790,SKU-790,Trousers,Electronics
+935,SKU935,Nan,Kitchen
+664,SKU664,Cooker,Home
+88,SKU_88,Cooker,Books
+766,SKU_766,Jeans,Home
+493,SKU493,Nan,Books
+193,SKU193,Smartwatch,Electronics
+568,NAN,Sofa,Electronics
+199,SKU199,Jeans,Home
+154,SKU_154,Trousers,Appliances
+225,SKU_225,Processor,Home
+78,SKU-78,Smartwatch,Appliances
+160,SKU160,Keyboard,Clothing
+932,SKU932,Notebook,Electronics
+147,SKU147,Hard Disk,Home
+811,SKU811,Jeans,Home
+707,SKU_707,Nan,Electronics
+630,SKU630,Camera,Furniture
+978,NAN,Nan,Books
+233,SKU233,Nan,Kitchen
+787,SKU-787,Cooker,Home
+918,SKU918,Nan,Books
+806,SKU806,Jacket,Clothing
+251,SKU_251,Headphones,Electronics
+268,SKU268,Monitor,Electronics
+529,SKU529,Monitor,Appliances
+316,SKU_316,Pen Drive,Nan
+461,NAN,Chair,Clothing
+871,SKU871,Jeans,Appliances
+784,SKU_784,Television,Electronics
+538,SKU538,Headphones,Books
+920,SKU-920,Fiction Book,Home
+384,SKU-384,Sneakers,Kitchen
+604,NAN,Nan,Electronics
+917,SKU917,Mobile Phone,Furniture
+407,SKU-407,Bluetooth Speaker,Appliances
+219,SKU-219,Smart Tv,Nan
+694,NAN,Nan,Nan
+152,SKU152,Shirt,Clothing
+208,SKU208,Gaming Chair,Books
+375,NAN,Camera,Home
+378,SKU378,Water Bottle,Nan
+646,SKU_646,Perfume,Clothing
+355,NAN,Nan,Nan
+242,NAN,Usb Cable,Clothing
+995,SKU_995,Gaming Chair,Home
+180,NAN,Pen Drive,Books
+161,SKU161,Nan,Clothing
+526,SKU526,Nan,Kitchen
+314,SKU314,Chair,Nan
+337,NAN,Smart Tv,Electronics
+586,SKU_586,Dslr,Appliances
+221,SKU-221,Hard Disk,Clothing
+230,SKU230,Microwave,Clothing
+752,SKU752,Nan,Books
+709,SKU709,Mixer Grinder,Furniture
+952,SKU_952,Dslr,Electronics
+240,NAN,Jeans,Home
+516,SKU_516,Jeans,Clothing
+971,SKU971,Processor,Clothing
+113,SKU113,Camera,Kitchen
+181,SKU181,Mobile Phone,Kitchen
+446,NAN,Pen Drive,Furniture
+92,SKU92,Power Bank,Furniture
+519,SKU519,Mobile Phone,Clothing
+796,SKU796,Ram,Electronics
+301,SKU301,Mobile Phone,Clothing
+149,SKU149,Television,Books
+973,SKU973,Jacket,Appliances
+216,SKU216,Smartwatch,Home
+168,SKU168,Gaming Chair,Nan
+843,SKU843,Led Bulb,Home
+950,SKU-950,Sneakers,Books
+336,SKU336,Nan,Clothing
+685,SKU685,Bluetooth Speaker,Home
+888,NAN,Jacket,Electronics
+266,SKU_266,Hard Disk,Electronics
+71,SKU71,Keyboard,Nan
+547,SKU547,Bluetooth Speaker,Books
+194,SKU_194,Charger,Nan
+855,SKU855,Watch,Furniture
+195,SKU195,Chair,Electronics
+255,SKU_255,Chair,Home
+374,SKU_374,Mobile Phone,Home
+196,SKU-196,Mouse,Kitchen
+507,SKU-507,Mixer Grinder,Appliances
+271,SKU-271,Fiction Book,Kitchen
+504,SKU-504,Chair,Books
+269,NAN,Monitor,Clothing
+18,SKU18,Mobile Phone,Kitchen
+588,SKU588,Nan,Books
+67,SKU_67,Monitor,Furniture
+744,NAN,Keyboard,Home
+158,SKU158,Monitor,Furniture
+925,SKU_925,Fiction Book,Electronics
+136,SKU136,Nan,Appliances
+880,SKU_880,Nan,Nan
+386,SKU_386,Smartwatch,Books
+127,SKU-127,Nan,Kitchen
+469,SKU469,Keyboard,Clothing
+141,SKU141,Jeans,Appliances
+472,NAN,Television,Home
+521,NAN,Router,Books
+620,SKU620,Smartwatch,Nan
+270,SKU270,Watch,Clothing
+959,SKU-959,Sneakers,Kitchen
+575,NAN,Smartwatch,Clothing
+343,NAN,Nan,Kitchen
+720,NAN,Sneakers,Nan
+306,SKU306,Microwave,Electronics
+304,SKU_304,Bag,Home
+992,NAN,Fiction Book,Home
+406,NAN,Tablet,Electronics
+737,SKU737,Gaming Chair,Kitchen
+931,SKU_931,Nan,Electronics
+907,SKU907,Bag,Home
+728,SKU728,Jeans,Home
+874,SKU874,Headphones,Books
+607,SKU607,Television,Books
+101,NAN,Gaming Chair,Kitchen
+438,SKU438,Nan,Appliances
+423,SKU_423,Nan,Books
+639,SKU-639,Nan,Furniture
+458,SKU-458,Bluetooth Speaker,Furniture
+279,SKU279,Laptop,Nan
+105,SKU105,Television,Home
+864,SKU864,Led Bulb,Home
+865,SKU865,Headphones,Home
+273,SKU273,Smart Tv,Electronics
+695,SKU_695,Fiction Book,Home
+715,SKU_715,Headphones,Home
+484,NAN,Headphones,Nan
+739,SKU-739,Television,Books
+520,SKU520,Jeans,Electronics
+380,SKU-380,Dslr,Books
+565,SKU_565,Chair,Clothing
+662,SKU662,Sneakers,Nan
+872,SKU-872,Mobile Phone,Furniture
+628,SKU_628,Monitor,Electronics
+845,SKU845,Cooker,Electronics
+742,SKU742,Gaming Chair,Books
+724,SKU-724,Camera,Appliances
+915,SKU-915,Led Bulb,Clothing
+468,SKU468,Router,Home
+926,SKU926,Television,Nan
+812,NAN,Fiction Book,Appliances
+191,NAN,Nan,Home
+217,SKU-217,Trousers,Nan
+531,SKU-531,Bluetooth Speaker,Appliances
+820,SKU820,Pen Drive,Home
+986,SKU986,Hard Disk,Kitchen
+241,SKU-241,Charger,Electronics
+893,SKU893,Cooker,Home

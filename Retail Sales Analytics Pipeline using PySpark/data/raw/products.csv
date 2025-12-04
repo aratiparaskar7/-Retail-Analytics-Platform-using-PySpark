@@ -1,0 +1,1051 @@
+product_id,sku,product_name,category
+56, SKU56 ,KEYBOARD,Furniture
+775, SKU775 ,MOBILE PHONE,  electronics
+60, SKU60 ,  Charger  ,Kitchen
+4, sku-4,  Sofa  ,Home
+478, sku-478,  Router  ,Kitchen
+501, SKU501 ,,Electronics
+771,SKU_771,,
+786,sku786,smart tv,Electronics
+704,sku704,dslr,home 
+108, SKU108 ,mobile phone,Books
+652,SKU_652,SOFA,Home
+116,SKU_116,,
+887,,FICTION BOOK,CLOTHING  
+318,SKU_318,Headphones,Electronics
+430,sku430,CHAIR,CLOTHING  
+420, SKU420 ,  Sofa  ,home 
+13,SKU_13,GRAPHICS CARD,
+614,,Sofa,Home
+989,SKU989,  Perfume  ,Electronics
+677, sku-677,,CLOTHING  
+961,SKU961,chair,Electronics
+223, sku-223,ROUTER,
+354,SKU354,FICTION BOOK,
+104,sku104,HEADPHONES,
+841,SKU841,fiction book,Clothing
+943,SKU943,Notebook,
+674, sku-674,Smartwatch,home 
+562,,SHIRT,Kitchen
+8, sku-8,FICTION BOOK,Home
+905, SKU905 ,graphics card,Electronics
+213, sku-213,HARD DISK,Appliances
+84,sku84,HARD DISK,Home
+923,sku923,PROCESSOR,  electronics
+944, SKU944 ,,Furniture
+37, SKU37 ,  Gaming Chair  ,Books
+499,SKU_499,LED Bulb,Appliances
+39, SKU39 ,router,Appliances
+94, SKU94 ,  Television  ,Electronics
+403, SKU403 ,FICTION BOOK,Furniture
+363,sku363,MONITOR,Kitchen
+333,,TABLET,Books
+276,SKU_276,usb cable,Appliances
+244,SKU244,keyboard,Kitchen
+65, SKU65 ,television,Clothing
+960,sku960,USB CABLE,Clothing
+875,,,home 
+879,,WATCH,CLOTHING  
+712,,  Hard Disk  ,Kitchen
+33, sku-33,,Electronics
+476, SKU476 ,trousers,Electronics
+471,SKU471,camera,Books
+473,SKU_473,shirt,Electronics
+6,SKU6,,Clothing
+5,,  Television  ,home 
+347,SKU_347,gaming chair,home 
+481, sku-481,,Books
+259,SKU_259,USB Cable,Home
+827, SKU827 ,  Water Bottle  ,CLOTHING  
+618, SKU618 ,,Clothing
+47,SKU_47,SMARTWATCH,Appliances
+232,sku232,  Laptop  ,Clothing
+319, sku-319,  Cooker  ,Furniture
+914, sku-914,Shirt,  electronics
+34,SKU34,SMART TV,home 
+613,SKU613,,  electronics
+25,sku25,Jacket,Books
+550,sku550,Water Bottle,Kitchen
+617,sku617,,Electronics
+656,,Cooker,Clothing
+717, sku-717,mixer grinder,Kitchen
+286,SKU286,jeans,Furniture
+863,sku863,  Bluetooth Speaker  ,
+515,,MOUSE,  electronics
+741,sku741,keyboard,Clothing
+691,SKU_691,water bottle,  electronics
+635,SKU635,SMARTWATCH,
+791,,  Shirt  ,Furniture
+985, sku-985,,Furniture
+981,SKU981,  Smart TV  ,  electronics
+683,SKU683,  Headphones  ,Appliances
+75,sku75,  Charger  ,  electronics
+868, SKU868 ,usb cable,Home
+36,SKU_36,mouse,Kitchen
+70,sku70,Headphones,Kitchen
+331,,SMARTWATCH,Kitchen
+968,SKU_968,tablet,Furniture
+362, sku-362,,Appliances
+837,SKU837,television,Clothing
+457,,notebook,home 
+252, SKU252 ,COOKER,Furniture
+11,,  Notebook  ,CLOTHING  
+825,,  Fiction Book  ,
+506, SKU506 ,,Clothing
+938,,  Mouse  ,Clothing
+370,,BAG,home 
+524,SKU524,MICROWAVE,Home
+563,SKU_563,Trousers,home 
+585,SKU_585,power bank,home 
+948, SKU948 ,graphics card,Clothing
+36,SKU_36,mouse,Kitchen
+100,SKU100,SOFA,Furniture
+215,SKU_215,Mixer Grinder,Clothing
+305,SKU_305,TROUSERS,Kitchen
+33, sku-33,,Electronics
+528,SKU_528,MONITOR,  electronics
+927, SKU927 ,,Home
+678,SKU678,,Clothing
+143,SKU_143,,home 
+30,,Mobile Phone,Furniture
+156,SKU156,MICROWAVE,Home
+669, SKU669 ,Power Bank,  electronics
+144,SKU_144,ram,Appliances
+636,sku636,Television,Clothing
+321, sku-321,CHAIR,Appliances
+789, SKU789 ,,Home
+313,SKU_313,water bottle,Kitchen
+95,sku95,Pen Drive,Books
+479,SKU_479,,CLOTHING  
+545,SKU_545,headphones,  electronics
+106,SKU106,RAM,Home
+372,sku372,  Mouse  ,Clothing
+434,SKU_434,mixer grinder,
+296,SKU296,,Kitchen
+512, SKU512 ,TABLET,  electronics
+539,SKU_539,jacket,CLOTHING  
+733,SKU733,,Kitchen
+417, SKU417 ,smartwatch,home 
+725,SKU725,keyboard,Kitchen
+19, SKU19 ,shirt,Electronics
+816,,BLUETOOTH SPEAKER,  electronics
+882,SKU_882,Microwave,Home
+916, sku-916,Jeans,
+163,SKU_163,USB CABLE,  electronics
+738,sku738,,Books
+713,SKU_713,,Furniture
+205,sku205,CHAIR,  electronics
+999,SKU999,GAMING CHAIR,Electronics
+805, SKU805 ,JEANS,Appliances
+842,SKU_842,mixer grinder,Books
+699,SKU_699,KEYBOARD,Books
+267,,hard disk,Home
+74,,Microwave,CLOTHING  
+68, SKU68 ,Television,Home
+543, SKU543 ,Smartwatch,Books
+214,sku214,dslr,Books
+122,sku122,Sofa,CLOTHING  
+416, sku-416,  Notebook  ,CLOTHING  
+23,SKU_23,Television,CLOTHING  
+32,SKU_32,POWER BANK,home 
+172,,,CLOTHING  
+308,SKU_308,  Trousers  ,home 
+625,SKU625,  Fiction Book  ,
+623,SKU623,  Notebook  ,Books
+394,,led bulb,Appliances
+348,SKU_348,Headphones,Home
+165, sku-165,KEYBOARD,Kitchen
+197,sku197,keyboard,CLOTHING  
+397,sku397,watch,Books
+42, sku-42,  Trousers  ,Clothing
+856,sku856,  LED Bulb  ,Clothing
+503, SKU503 ,graphics card,Furniture
+577,,,Home
+922,,RAM,Appliances
+828, sku-828,ROUTER,Furniture
+902,SKU902,,Kitchen
+798,sku798,Bag,
+334,,,Kitchen
+32,SKU_32,POWER BANK,home 
+536, sku-536,LAPTOP,Home
+24,sku24,  Notebook  ,Books
+834,,,home 
+490, SKU490 ,  Fiction Book  ,Home
+844, sku-844,MOUSE,Furniture
+132,SKU_132,Smartwatch,Kitchen
+280, sku-280,Headphones,Clothing
+793,,SMART TV,Clothing
+692, sku-692,Monitor,Clothing
+326, SKU326 ,Hard Disk,home 
+756,SKU_756,HEADPHONES,home 
+860,SKU860,  Graphics Card  ,home 
+44,,,  electronics
+958,,,Books
+210,SKU210,USB CABLE,Kitchen
+311,,Jeans,
+778,,LED Bulb,Electronics
+809,SKU_809,,
+540,sku540,Television,Furniture
+120,,Sofa,  electronics
+846,sku846,  Jeans  ,Appliances
+722,SKU_722,Water Bottle,Books
+549,sku549,camera,Furniture
+735,,dslr,CLOTHING  
+714, sku-714,power bank,Appliances
+246,sku246,,  electronics
+557,,  Tablet  ,Furniture
+226,SKU226,,Home
+294, SKU294 ,KEYBOARD,  electronics
+697,SKU_697,  Router  ,CLOTHING  
+474,sku474,router,Books
+658,,Jacket,Furniture
+177,SKU177,  RAM  ,Books
+698,,mixer grinder,Kitchen
+124,,RAM,home 
+853,sku853,,
+112,SKU112,Mobile Phone,Furniture
+723,,,
+772,SKU772,cooker,Kitchen
+81, sku-81,LED BULB,Appliances
+726,SKU_726,HARD DISK,Home
+940,SKU940,Perfume,Electronics
+970,SKU_970,notebook,home 
+949, SKU949 ,,Home
+483,sku483,,Home
+799,SKU799,monitor,Kitchen
+441, SKU441 ,RAM,Home
+976, SKU976 ,,home 
+727,SKU727,  Bluetooth Speaker  ,Books
+142,,chair,Electronics
+569, SKU569 ,  Trousers  ,Appliances
+750,SKU_750,SMART TV,Books
+749,SKU749,POWER BANK,Furniture
+821,,USB CABLE,CLOTHING  
+353,sku353,KEYBOARD,Home
+638, sku-638,MOBILE PHONE,
+980,SKU_980,perfume,Home
+813,SKU_813,Mouse,Electronics
+411, sku-411,  Tablet  ,Books
+55,,Power Bank,Appliances
+413,sku413,,CLOTHING  
+702, SKU702 ,watch,
+178, SKU178 ,Water Bottle,Appliances
+753, SKU753 ,LAPTOP,Appliances
+889,SKU889,DSLR,Electronics
+578,SKU_578,  Router  ,Books
+596,sku596,Router,home 
+98,SKU98,GAMING CHAIR,Clothing
+133, sku-133,Cooker,Clothing
+592,SKU_592,Jeans,Appliances
+338,SKU338,  Processor  ,
+253,SKU_253,  Bag  ,Appliances
+102, SKU102 ,RAM,
+870,SKU_870,LED Bulb,Electronics
+954,sku954,,Appliances
+767, sku-767,,CLOTHING  
+593,,sofa,
+794,SKU_794,Mobile Phone,Electronics
+43, sku-43,bag,Clothing
+323, SKU323 ,SMARTWATCH,Books
+582, sku-582,PROCESSOR,Kitchen
+576,,Bluetooth Speaker,Appliances
+495,SKU_495,  Fiction Book  ,Clothing
+206, sku-206,Smartwatch,Clothing
+159, SKU159 ,  Power Bank  ,Electronics
+777,SKU777,graphics card,CLOTHING  
+288,SKU288,sneakers,home 
+6,SKU6,,Clothing
+247, sku-247,SMARTWATCH,Kitchen
+9,SKU_9,sneakers,Appliances
+676, SKU676 ,  Pen Drive  ,Clothing
+619,,,
+933,,,Kitchen
+145, SKU145 ,,Clothing
+327,sku327,  Camera  ,Home
+200,SKU_200,cooker,CLOTHING  
+759,sku759,router,Books
+849,SKU_849,LED Bulb,Appliances
+209, SKU209 ,pen drive,Furniture
+62, sku-62,MICROWAVE,Home
+283, SKU283 ,,Appliances
+368,,MONITOR,Clothing
+781,,ram,CLOTHING  
+29,SKU_29,USB CABLE,Books
+26,SKU_26,MOUSE,CLOTHING  
+298,sku298,Jeans,CLOTHING  
+533,SKU_533,RAM,Books
+591,,MOUSE,Appliances
+903,sku903,ROUTER,Electronics
+710,,COOKER,CLOTHING  
+391,sku391,ROUTER,Clothing
+852,SKU852,USB CABLE,home 
+832,sku832,Shirt,home 
+405,SKU_405,Bluetooth Speaker,Books
+422, sku-422,cooker,Electronics
+561,SKU561,Pen Drive,Kitchen
+364,sku364,,Furniture
+488, SKU488 ,Shirt,Furniture
+5,,  Television  ,home 
+153, SKU153 ,PEN DRIVE,Kitchen
+358, sku-358,Tablet,
+207,SKU_207,monitor,CLOTHING  
+12,sku12,,  electronics
+39, SKU39 ,router,Appliances
+187,sku187,  Power Bank  ,Books
+46,SKU_46,television,Home
+456,SKU456,Chair,
+346, SKU346 ,processor,  electronics
+26,SKU_26,MOUSE,CLOTHING  
+878,sku878,COOKER,Home
+212,sku212,notebook,
+783,sku783,TROUSERS,Home
+534,SKU_534,notebook,CLOTHING  
+703,sku703,,Clothing
+716,SKU_716,mobile phone,
+769, sku-769,HEADPHONES,
+119,SKU119,  Smartwatch  ,
+560,SKU_560,chair,  electronics
+884, SKU884 ,  Graphics Card  ,
+612,sku612,Headphones,
+686, sku-686,SMART TV,Clothing
+824,SKU_824,  Keyboard  ,Clothing
+818,,  Television  ,Home
+351,SKU351,,Electronics
+202, sku-202,  Power Bank  ,Electronics
+509, SKU509 ,SMART TV,Furniture
+170,sku170,Cooker,
+822,SKU822,,
+659,,watch,  electronics
+622, SKU622 ,MOUSE,CLOTHING  
+930,sku930,  USB Cable  ,
+688,SKU688,Mixer Grinder,Appliances
+885,SKU885,watch,home 
+455,SKU_455,  Laptop  ,Electronics
+977,,,Kitchen
+972,sku972,monitor,Electronics
+776, SKU776 ,  RAM  ,
+696, SKU696 ,camera,Electronics
+606, SKU606 ,  RAM  ,Electronics
+924, SKU924 ,sofa,CLOTHING  
+433,SKU433,Graphics Card,Clothing
+718,SKU718,,Books
+598,,processor,Books
+44,,,  electronics
+421,SKU_421,  Sofa  ,Books
+743, SKU743 ,  Television  ,Clothing
+998,sku998,,CLOTHING  
+61,,TABLET,Furniture
+942,SKU942,,Clothing
+480,SKU_480,chair,Electronics
+128, SKU128 ,  Bag  ,  electronics
+24,sku24,  Notebook  ,Books
+890,sku890,headphones,Books
+121,,ROUTER,Kitchen
+317, SKU317 ,SOFA,Appliances
+746, SKU746 ,Camera,Electronics
+500, SKU500 ,pen drive,  electronics
+701,SKU_701,Microwave,Home
+459, SKU459 ,fiction book,Home
+984,sku984,Jacket,Home
+342,,  Notebook  ,Home
+573,SKU573,Charger,Kitchen
+432, sku-432,  Perfume  ,Furniture
+307,sku307,  Headphones  ,
+904,SKU904,watch,CLOTHING  
+387, SKU387 ,,CLOTHING  
+946,SKU946,Fiction Book,
+773,SKU_773,USB CABLE,Clothing
+877,,HEADPHONES,Kitchen
+3,sku3,  Graphics Card  ,Furniture
+804,SKU_804,,
+589, SKU589 ,Mixer Grinder,Appliances
+979,SKU_979,,Home
+23,SKU_23,Television,CLOTHING  
+951,,,  electronics
+103,SKU103,Smartwatch,home 
+719,,bag,CLOTHING  
+137,sku137,jeans,home 
+680,SKU_680,Power Bank,CLOTHING  
+235, SKU235 ,Fiction Book,
+862, sku-862,ROUTER,Electronics
+234,sku234,COOKER,  electronics
+198, sku-198,,Kitchen
+53,sku53,,Electronics
+897, sku-897,,Kitchen
+840, SKU840 ,KEYBOARD,Books
+303, sku-303,SMART TV,Kitchen
+231,,WATER BOTTLE,Furniture
+969, SKU969 ,Notebook,Electronics
+436,,Notebook,Books
+275, SKU275 ,MOUSE,
+689,,Mouse,CLOTHING  
+16,sku16,Sofa,  electronics
+1,sku1,mouse,
+9,SKU_9,sneakers,Appliances
+186, SKU186 ,SNEAKERS,
+983, sku-983,,
+732, SKU732 ,Trousers,Books
+21, sku-21,Sneakers,Furniture
+50, sku-50,PERFUME,CLOTHING  
+901,,trousers,Electronics
+171,SKU171,  Smartwatch  ,CLOTHING  
+90,SKU_90,keyboard,home 
+555,SKU_555,DSLR,Clothing
+823,sku823,  Watch  ,Electronics
+667,sku667,sneakers,CLOTHING  
+243,sku243,Shirt,  electronics
+445,SKU_445,,
+2,,watch,Appliances
+654,SKU_654,keyboard,  electronics
+99,,  Mobile Phone  ,  electronics
+371,SKU371,Laptop,CLOTHING  
+4, sku-4,  Sofa  ,Home
+238,SKU_238,sofa,Furniture
+64,sku64,Gaming Chair,  electronics
+176,SKU176,MOUSE,Kitchen
+734,,HEADPHONES,Kitchen
+38,SKU_38,Keyboard,home 
+892,SKU892,  Notebook  ,Books
+492,SKU_492,  Smartwatch  ,Appliances
+757, sku-757,Television,Electronics
+431, sku-431,,  electronics
+3,sku3,  Graphics Card  ,Furniture
+997,sku997,cooker,Electronics
+624, SKU624 ,  Laptop  ,Appliances
+785, SKU785 ,JEANS,CLOTHING  
+700,SKU700,  Gaming Chair  ,Kitchen
+779,,router,home 
+974, sku-974,,Appliances
+826, sku-826,MOUSE,Clothing
+963, SKU963 ,Jeans,home 
+237, sku-237,WATCH,Electronics
+218, SKU218 ,ram,  electronics
+30,,Mobile Phone,Furniture
+485,,  Television  ,Home
+629, sku-629,Headphones,Home
+836,SKU_836,,Kitchen
+376,sku376,  Charger  ,
+609,SKU_609,,home 
+740,SKU_740,notebook,Kitchen
+312,sku312,POWER BANK,Kitchen
+35,,  Processor  ,home 
+291,SKU291,PERFUME,CLOTHING  
+957,,KEYBOARD,Appliances
+58,sku58,  Mouse  ,  electronics
+854, sku-854,CHARGER,Clothing
+693, sku-693,,Books
+711,sku711,HEADPHONES,Electronics
+567,sku567,Television,Clothing
+851,SKU851,Water Bottle,
+396,,headphones,Kitchen
+497,SKU_497,Jacket,CLOTHING  
+12,sku12,,  electronics
+894,SKU_894,,Books
+527,SKU_527,  Notebook  ,Appliances
+510, sku-510,power bank,home 
+14, SKU14 ,perfume,  electronics
+706,SKU706,MICROWAVE,Clothing
+344,,  Power Bank  ,  electronics
+782,,POWER BANK,  electronics
+201,SKU201,mobile phone,CLOTHING  
+57,SKU57,,CLOTHING  
+293,sku293,perfume,Electronics
+29,SKU_29,USB CABLE,Books
+28,,Processor,Kitchen
+532,SKU_532,monitor,home 
+239,sku239,Charger,Appliances
+222,,USB CABLE,Kitchen
+45, sku-45,mobile phone,
+967, SKU967 ,chair,CLOTHING  
+41,sku41,dslr,
+182, sku-182,  Hard Disk  ,Kitchen
+381,sku381,Mouse,Clothing
+912,SKU912,  Charger  ,Appliances
+414,SKU_414,,Appliances
+169,SKU169,  Hard Disk  ,Books
+765, sku-765,sneakers,home 
+758,SKU758,  Camera  ,Electronics
+295,SKU295,,Home
+937, sku-937,MOBILE PHONE,Appliances
+801,sku801,,Electronics
+17, sku-17,WATCH,Clothing
+89,,tablet,Books
+188, SKU188 ,COOKER,Clothing
+265, sku-265,MONITOR,Home
+810, SKU810 ,Trousers,Kitchen
+185,SKU_185,NOTEBOOK,Appliances
+650,,Chair,Electronics
+665,SKU665,MOUSE,Books
+350,SKU_350,Chair,Electronics
+274, SKU274 ,Mixer Grinder,Clothing
+571, sku-571,PEN DRIVE,Clothing
+780,SKU_780,bluetooth speaker,Furniture
+751, sku-751,LAPTOP,CLOTHING  
+87,SKU87,,Clothing
+736, SKU736 ,  Sofa  ,Clothing
+79,sku79,SHIRT,Furniture
+514, sku-514,,Appliances
+603,SKU_603,  Watch  ,Furniture
+404, SKU404 ,monitor,CLOTHING  
+37, SKU37 ,  Gaming Chair  ,Books
+204, SKU204 ,fiction book,
+42, sku-42,  Trousers  ,Clothing
+517, SKU517 ,  Sneakers  ,Clothing
+248, SKU248 ,COOKER,Electronics
+399, SKU399 ,  Mixer Grinder  ,Electronics
+570,sku570,  Perfume  ,Books
+96,SKU96,router,Kitchen
+465,SKU465,  Shirt  ,  electronics
+167,SKU167,DSLR,home 
+574, SKU574 ,LED BULB,Appliances
+850,sku850,,
+553,SKU_553,  Chair  ,Appliances
+487, SKU487 ,mobile phone,home 
+38,SKU_38,Keyboard,home 
+649,SKU_649,  DSLR  ,Home
+357,SKU_357,Bag,Kitchen
+335, SKU335 ,bluetooth speaker,home 
+861,,trousers,home 
+643,sku643,Graphics Card,Electronics
+402, sku-402,,Kitchen
+542, sku-542,  Television  ,Books
+429, sku-429,  Sofa  ,Books
+369,SKU_369,Power Bank,Electronics
+192,SKU192,USB CABLE,Furniture
+224, SKU224 ,,CLOTHING  
+891,SKU891,camera,
+20,,gaming chair,Books
+442, sku-442,CHAIR,Kitchen
+340,,PEN DRIVE,CLOTHING  
+349,SKU349,Trousers,  electronics
+795,,,Books
+179,SKU_179,SMART TV,Furniture
+427,SKU_427,,
+460, SKU460 ,SMARTWATCH,  electronics
+54, SKU54 ,Jeans,Appliances
+537,,Pen Drive,home 
+583,,  Hard Disk  ,Home
+909,sku909,usb cable,CLOTHING  
+838, sku-838,  Shirt  ,Appliances
+130,SKU_130,  Tablet  ,Electronics
+541,,Watch,home 
+300,,LAPTOP,Furniture
+597,,Camera,CLOTHING  
+48,sku48,  RAM  ,  electronics
+523,,dslr,Appliances
+956, SKU956 ,  LED Bulb  ,Electronics
+910, sku-910,monitor,Kitchen
+764,SKU764,LAPTOP,  electronics
+339,SKU339,SMART TV,CLOTHING  
+367,SKU367,  Bag  ,CLOTHING  
+990, SKU990 ,Laptop,  electronics
+627, sku-627,MOBILE PHONE,Furniture
+43, sku-43,bag,Clothing
+148, sku-148,SNEAKERS,  electronics
+962,SKU962,sofa,home 
+921, SKU921 ,graphics card,CLOTHING  
+131,,shirt,Appliances
+913,SKU913,  Tablet  ,Home
+486, SKU486 ,Microwave,
+682,SKU682,MIXER GRINDER,CLOTHING  
+310,sku310,,Home
+398,sku398,  Bluetooth Speaker  ,  electronics
+134, SKU134 ,FICTION BOOK,  electronics
+115, sku-115,  Processor  ,
+435,SKU_435,water bottle,CLOTHING  
+379,sku379,processor,Furniture
+535,sku535,,Kitchen
+993,SKU993,  Laptop  ,Kitchen
+847, sku-847,  RAM  ,CLOTHING  
+263,sku263,  Gaming Chair  ,Home
+982,,,Home
+508, sku-508,router,  electronics
+530, sku-530,DSLR,Clothing
+721, SKU721 ,  Laptop  ,Books
+440, sku-440,smart tv,Kitchen
+388, sku-388,SMARTWATCH,Books
+126,SKU_126,laptop,Furniture
+955, sku-955,  LED Bulb  ,Kitchen
+866,SKU866,Smartwatch,Electronics
+72, SKU72 ,,
+302,,Pen Drive,Kitchen
+466,SKU_466,LAPTOP,home 
+332,SKU_332,router,Furniture
+146, SKU146 ,,Electronics
+139,sku139,Fiction Book,CLOTHING  
+559,,perfume,  electronics
+679,sku679,fiction book,  electronics
+800, SKU800 ,,Clothing
+645,SKU645,Cooker,Electronics
+361, sku-361,Jeans,home 
+647,SKU647,,Clothing
+410,,,home 
+11,,  Notebook  ,CLOTHING  
+69,,FICTION BOOK,  electronics
+66,,FICTION BOOK,Books
+83,SKU83,MOUSE,CLOTHING  
+28,,Processor,Kitchen
+315, SKU315 ,trousers,CLOTHING  
+125, SKU125 ,Fiction Book,Furniture
+324,,,Appliances
+988,SKU988,Jacket,Home
+929,,SNEAKERS,Furniture
+52,sku52,,Electronics
+477,SKU477,,CLOTHING  
+919,sku919,Mobile Phone,CLOTHING  
+454, sku-454,  LED Bulb  ,Books
+641,sku641,Smartwatch,CLOTHING  
+123,SKU123,keyboard,Clothing
+814,sku814,,Books
+93, sku-93,Hard Disk,home 
+975,sku975,graphics card,home 
+385,SKU_385,watch,Kitchen
+599,SKU_599,Charger,Clothing
+626,sku626,,Electronics
+352,sku352,fiction book,Appliances
+763,sku763,Processor,Books
+494, sku-494,  USB Cable  ,Appliances
+50, sku-50,PERFUME,CLOTHING  
+249,SKU249,SOFA,CLOTHING  
+190,,Sofa,Home
+437,sku437,SNEAKERS,Books
+34,SKU34,SMART TV,home 
+229, SKU229 ,USB CABLE,
+634, sku-634,HEADPHONES,Electronics
+964,,  Bag  ,Books
+551,sku551,MOBILE PHONE,Electronics
+815, sku-815,,  electronics
+754,,smart tv,CLOTHING  
+80, SKU80 ,  RAM  ,Electronics
+900,SKU900,HEADPHONES,Books
+91,SKU91,,
+110, SKU110 ,monitor,
+118, SKU118 ,Television,  electronics
+670, sku-670,PERFUME,Kitchen
+581, SKU581 ,Hard Disk,Appliances
+27, SKU27 ,,Electronics
+807, sku-807,Router,
+41,sku41,dslr,
+996,SKU996,,home 
+408,,television,  electronics
+450, SKU450 ,graphics card,Home
+663, SKU663 ,,Furniture
+829, sku-829,Perfume,Furniture
+155,sku155,,Books
+447,,  Fiction Book  ,Kitchen
+256, SKU256 ,Watch,Books
+708, SKU708 ,hard disk,Clothing
+687,SKU687,Power Bank,Appliances
+383, SKU383 ,Microwave,Clothing
+257,,Smart TV,Clothing
+660,,,home 
+8, sku-8,FICTION BOOK,Home
+705,,Power Bank,Home
+760,SKU_760,,Books
+47,SKU_47,SMARTWATCH,Appliances
+600,SKU_600,Sofa,Clothing
+21, sku-21,Sneakers,Furniture
+40,SKU40,bluetooth speaker,Electronics
+322,sku322,  Charger  ,Kitchen
+203,sku203,  Tablet  ,Furniture
+768, SKU768 ,charger,Clothing
+965,,gaming chair,Electronics
+770, SKU770 ,,Electronics
+648,sku648,jacket,Books
+748,,MOBILE PHONE,home 
+140,SKU140,  Hard Disk  ,
+164, sku-164,Jacket,Kitchen
+462,SKU462,water bottle,Home
+632, SKU632 ,LED BULB,Kitchen
+297, sku-297,Watch,Furniture
+360,SKU360,Hard Disk,Kitchen
+15,sku15,  Cooker  ,Kitchen
+747, sku-747,USB Cable,Furniture
+245,SKU_245,,Home
+755,,Bluetooth Speaker,Kitchen
+174, sku-174,Bluetooth Speaker,Appliances
+220, sku-220,  Fiction Book  ,home 
+857, sku-857,  Fiction Book  ,  electronics
+85,,  Power Bank  ,Clothing
+594,,NOTEBOOK,Kitchen
+615,SKU_615,USB CABLE,Appliances
+107,SKU_107,keyboard,  electronics
+657,sku657,  Trousers  ,home 
+489,sku489,  LED Bulb  ,Kitchen
+991, SKU991 ,  Keyboard  ,Electronics
+418, sku-418,CAMERA,Electronics
+412,,,Furniture
+608, SKU608 ,  Television  ,Furniture
+289,SKU289,KEYBOARD,
+899, sku-899,MOUSE,Furniture
+7,sku7,  Microwave  ,CLOTHING  
+109,SKU_109,GRAPHICS CARD,Furniture
+502,sku502,RAM,Kitchen
+653,SKU653,  Power Bank  ,
+833, SKU833 ,Jacket,Furniture
+496,,  Jacket  ,CLOTHING  
+554,SKU_554,RAM,Books
+684,,USB Cable,Home
+953,,Hard Disk,home 
+881,SKU_881,  Trousers  ,Clothing
+470,sku470,,Electronics
+272,,Notebook,  electronics
+389,,,Appliances
+63,,,Kitchen
+184,sku184,sofa,Clothing
+644, sku-644,,home 
+467,SKU_467,DSLR,Electronics
+580,,,Clothing
+138,,  Pen Drive  ,
+2,,watch,Appliances
+366,SKU_366,LAPTOP,Appliances
+250,SKU_250,Smartwatch,Furniture
+564, SKU564 ,,Books
+424,SKU424,CHARGER,
+173,SKU173,MOUSE,Electronics
+10,SKU10,smartwatch,Books
+22, SKU22 ,Camera,Clothing
+762,sku762,Jeans,Home
+262,sku262,FICTION BOOK,Furniture
+651, sku-651,SHIRT,Books
+261, sku-261,,Furniture
+941,SKU_941,Tablet,Kitchen
+774,SKU774,,
+382,sku382,NOTEBOOK,Clothing
+117,SKU_117,TELEVISION,Appliances
+19, SKU19 ,shirt,Electronics
+290,SKU_290,Perfume,Clothing
+320,sku320,charger,Appliances
+444, SKU444 ,sofa,Appliances
+82, SKU82 ,TROUSERS,Books
+328, SKU328 ,jeans,Appliances
+281,sku281,Tablet,Electronics
+690,SKU690,Headphones,home 
+633, sku-633,MICROWAVE,CLOTHING  
+14, SKU14 ,perfume,  electronics
+590, SKU590 ,GRAPHICS CARD,Clothing
+666,,  Sofa  ,Clothing
+803,sku803,Power Bank,Home
+605, sku-605,Water Bottle,CLOTHING  
+464, SKU464 ,,Books
+97,sku97,DSLR,Books
+745, SKU745 ,MIXER GRINDER,Electronics
+788,,,CLOTHING  
+409, sku-409,charger,Kitchen
+1,sku1,mouse,
+886,SKU_886,,Clothing
+584,sku584,,Furniture
+792,SKU_792,  LED Bulb  ,Kitchen
+610,sku610,MICROWAVE,Clothing
+299,sku299,  USB Cable  ,Kitchen
+76,sku76,,Furniture
+731,sku731,DSLR,Clothing
+934,SKU_934,,home 
+522, sku-522,perfume,CLOTHING  
+672, sku-672,Water Bottle,Appliances
+287,,microwave,Books
+947,SKU947,water bottle,  electronics
+451,SKU_451,,home 
+419,SKU_419,  Bluetooth Speaker  ,CLOTHING  
+325,SKU_325,  Router  ,Books
+236, sku-236,PERFUME,Home
+548,SKU548,Monitor,Kitchen
+867,SKU_867,,Electronics
+111,SKU111,,Books
+895, SKU895 ,PEN DRIVE,Kitchen
+544, sku-544,  LED Bulb  ,Kitchen
+401,sku401,,Kitchen
+655, SKU655 ,Water Bottle,Furniture
+425,SKU_425,Perfume,Appliances
+546, sku-546,led bulb,Books
+228,SKU228,MICROWAVE,Home
+393, sku-393,Smartwatch,Kitchen
+556, SKU556 ,Tablet,Furniture
+511,SKU511,Water Bottle,Clothing
+906,,,Home
+491, sku-491,Mouse,Books
+675,SKU_675,Mouse,
+671, SKU671 ,  Graphics Card  ,home 
+552,sku552,JACKET,  electronics
+839,,  Fiction Book  ,home 
+830, sku-830,,CLOTHING  
+661,sku661,camera,
+443,,,Books
+848,SKU848,,Electronics
+808,sku808,jeans,CLOTHING  
+151,,  LED Bulb  ,Appliances
+400, SKU400 ,smartwatch,Clothing
+987,sku987,Shirt,Home
+22, SKU22 ,Camera,Clothing
+365,sku365,gaming chair,Appliances
+966,,microwave,CLOTHING  
+819,SKU_819,  Laptop  ,Home
+284,,RAM,CLOTHING  
+227, sku-227,  Sneakers  ,
+883,SKU883,  Sneakers  ,
+475, SKU475 ,  Cooker  ,Furniture
+831,sku831,  Bluetooth Speaker  ,Appliances
+377, SKU377 ,smartwatch,Electronics
+25,sku25,Jacket,Books
+802,sku802,USB CABLE,Appliances
+40,SKU40,bluetooth speaker,Electronics
+525,SKU525,camera,home 
+463,SKU_463,MONITOR,Furniture
+611,sku611,RAM,
+869, SKU869 ,  Mouse  ,  electronics
+35,,  Processor  ,home 
+439, SKU439 ,graphics card,Home
+898, sku-898,  Bluetooth Speaker  ,Electronics
+482, sku-482,,Furniture
+73,,,home 
+359,SKU359,,Appliances
+373,SKU373,,Home
+345,,gaming chair,
+876,SKU_876,JACKET,  electronics
+395,SKU395,  Charger  ,Home
+415, sku-415,COOKER,
+911, SKU911 ,  Keyboard  ,Clothing
+939, sku-939,SMARTWATCH,CLOTHING  
+278,,WATER BOTTLE,Clothing
+211, sku-211,Trousers,Clothing
+505,SKU_505,  Smartwatch  ,home 
+449,,television,Electronics
+518, SKU518 ,usb cable,Kitchen
+566,SKU_566,watch,CLOTHING  
+908, sku-908,  Notebook  ,Appliances
+817, SKU817 ,  Mouse  ,home 
+668, sku-668,,Kitchen
+572,SKU_572,Mobile Phone,Electronics
+292,SKU_292,,Electronics
+426,SKU426,,Electronics
+579,SKU_579,  Pen Drive  ,CLOTHING  
+254,,NOTEBOOK,Home
+513, SKU513 ,,Books
+282,sku282,,home 
+150, sku-150,Mouse,
+452, sku-452,Smart TV,Kitchen
+13,SKU_13,GRAPHICS CARD,
+260,SKU260,Mouse,home 
+114,,jeans,
+20,,gaming chair,Books
+129, sku-129,  Monitor  ,home 
+48,sku48,  RAM  ,  electronics
+873,,Keyboard,Furniture
+309,,Smart TV,Appliances
+428,,Bag,Electronics
+681,SKU_681,  RAM  ,
+31,,tablet,home 
+341,,PEN DRIVE,Clothing
+285,,gaming chair,  electronics
+157,sku157,,Books
+859,sku859,Jacket,
+587,SKU587,SOFA,Clothing
+994, SKU994 ,  Cooker  ,Kitchen
+258,SKU_258,  Processor  ,Furniture
+183, sku-183,  Bluetooth Speaker  ,  electronics
+356,sku356,Trousers,Furniture
+175, SKU175 ,Trousers,home 
+448,SKU_448,  Headphones  ,Electronics
+498, SKU498 ,DSLR,Clothing
+602, sku-602,  DSLR  ,Electronics
+329, sku-329,cooker,home 
+166, sku-166,bag,Home
+673, sku-673,  LED Bulb  ,Electronics
+945, sku-945,Smartwatch,Clothing
+264,SKU264,  Tablet  ,CLOTHING  
+49,SKU49,smart tv,  electronics
+59, SKU59 ,pen drive,Kitchen
+189, SKU189 ,  Jeans  ,Books
+637,SKU_637,Camera,Books
+330, sku-330,Water Bottle,Electronics
+51, SKU51 ,graphics card,home 
+640,SKU640,KEYBOARD,Appliances
+730, sku-730,  Watch  ,home 
+642, sku-642,Mobile Phone,Furniture
+631,sku631,mobile phone,  electronics
+390,SKU_390,  Sofa  ,CLOTHING  
+928,sku928,SNEAKERS,home 
+16,sku16,Sofa,  electronics
+729,sku729,,Clothing
+858,SKU858,sofa,Clothing
+17, sku-17,WATCH,Clothing
+835,,  DSLR  ,CLOTHING  
+601,sku601,Jacket,Clothing
+558,sku558,NOTEBOOK,Kitchen
+621,SKU_621,  Camera  ,CLOTHING  
+453,SKU_453,SHIRT,Clothing
+392, sku-392,BLUETOOTH SPEAKER,CLOTHING  
+896,SKU_896,jeans,Clothing
+162, SKU162 ,  LED Bulb  ,
+7,sku7,  Microwave  ,CLOTHING  
+936,,trousers,Appliances
+616, sku-616,  Keyboard  ,Clothing
+77,SKU77,WATER BOTTLE,Furniture
+86,,  DSLR  ,Furniture
+135,SKU_135,  Laptop  ,Home
+761, sku-761,,Clothing
+595,,,  electronics
+1000, sku-1000,  Tablet  ,CLOTHING  
+797,sku797,jeans,Furniture
+277,,Hard Disk,Home
+790, sku-790,TROUSERS,Electronics
+935, SKU935 ,,Kitchen
+664, SKU664 ,Cooker,Home
+88,SKU_88,  Cooker  ,Books
+766,SKU_766,JEANS,Home
+493, SKU493 ,,Books
+193,sku193,smartwatch,Electronics
+568,,Sofa,Electronics
+199,SKU199,  Jeans  ,Home
+154,SKU_154,  Trousers  ,Appliances
+225,SKU_225,PROCESSOR,home 
+78, sku-78,SMARTWATCH,Appliances
+160,sku160,Keyboard,Clothing
+932,SKU932,notebook,Electronics
+147, SKU147 ,  Hard Disk  ,home 
+811,sku811,jeans,home 
+707,SKU_707,,Electronics
+630,sku630,Camera,Furniture
+978,,,Books
+233,SKU233,,Kitchen
+787, sku-787,cooker,Home
+918,SKU918,,Books
+806,sku806,  Jacket  ,Clothing
+27, SKU27 ,,Electronics
+251,SKU_251,headphones,  electronics
+268, SKU268 ,monitor,  electronics
+529, SKU529 ,monitor,Appliances
+316,SKU_316,Pen Drive,
+461,,Chair,CLOTHING  
+871,SKU871,JEANS,Appliances
+784,SKU_784,television,  electronics
+538, SKU538 ,headphones,Books
+920, sku-920,FICTION BOOK,Home
+384, sku-384,SNEAKERS,Kitchen
+604,,,Electronics
+917,sku917,Mobile Phone,Furniture
+407, sku-407,bluetooth speaker,Appliances
+219, sku-219,Smart TV,
+694,,,
+152,sku152,Shirt,Clothing
+208,sku208,gaming chair,Books
+375,,CAMERA,Home
+378,sku378,WATER BOTTLE,
+646,SKU_646,Perfume,Clothing
+355,,,
+242,,usb cable,CLOTHING  
+995,SKU_995,Gaming Chair,Home
+180,,Pen Drive,Books
+161, SKU161 ,,Clothing
+526, SKU526 ,,Kitchen
+314,SKU314,Chair,
+337,,smart tv,Electronics
+586,SKU_586,dslr,Appliances
+221, sku-221,  Hard Disk  ,Clothing
+230, SKU230 ,  Microwave  ,Clothing
+752,sku752,,Books
+709, SKU709 ,  Mixer Grinder  ,Furniture
+952,SKU_952,DSLR,Electronics
+240,,Jeans,home 
+516,SKU_516,Jeans,Clothing
+971,SKU971,processor,CLOTHING  
+113,sku113,Camera,Kitchen
+181,sku181,  Mobile Phone  ,Kitchen
+446,,PEN DRIVE,Furniture
+92,SKU92,POWER BANK,Furniture
+519,sku519,  Mobile Phone  ,Clothing
+796,sku796,RAM,Electronics
+301,SKU301,  Mobile Phone  ,CLOTHING  
+31,,tablet,home 
+149,sku149,  Television  ,Books
+973,sku973,JACKET,Appliances
+216,sku216,Smartwatch,Home
+168, SKU168 ,gaming chair,
+843,SKU843,  LED Bulb  ,Home
+950, sku-950,SNEAKERS,Books
+336,sku336,,Clothing
+685, SKU685 ,Bluetooth Speaker,home 
+888,,  Jacket  ,Electronics
+266,SKU_266,HARD DISK,  electronics
+71, SKU71 ,keyboard,
+547, SKU547 ,Bluetooth Speaker,Books
+194,SKU_194,  Charger  ,
+855, SKU855 ,watch,Furniture
+195,SKU195,Chair,  electronics
+255,SKU_255,CHAIR,Home
+374,SKU_374,Mobile Phone,home 
+196, sku-196,Mouse,Kitchen
+507, sku-507,  Mixer Grinder  ,Appliances
+271, sku-271,Fiction Book,Kitchen
+504, sku-504,Chair,Books
+269,,MONITOR,CLOTHING  
+18,sku18,mobile phone,Kitchen
+588,SKU588,,Books
+67,SKU_67,Monitor,Furniture
+744,,keyboard,Home
+158,SKU158,  Monitor  ,Furniture
+925,SKU_925,FICTION BOOK,  electronics
+136,sku136,,Appliances
+880,SKU_880,,
+386,SKU_386,smartwatch,Books
+127, sku-127,,Kitchen
+469, SKU469 ,Keyboard,CLOTHING  
+141, SKU141 ,Jeans,Appliances
+472,,TELEVISION,Home
+521,,  Router  ,Books
+620,SKU620,SMARTWATCH,
+270,SKU270,WATCH,Clothing
+959, sku-959,  Sneakers  ,Kitchen
+575,,  Smartwatch  ,CLOTHING  
+343,,,Kitchen
+720,,SNEAKERS,
+306,SKU306,MICROWAVE,  electronics
+304,SKU_304,bag,home 
+992,,  Fiction Book  ,Home
+18,sku18,mobile phone,Kitchen
+15,sku15,  Cooker  ,Kitchen
+406,,tablet,  electronics
+737,SKU737,Gaming Chair,Kitchen
+931,SKU_931,,Electronics
+907,SKU907,bag,Home
+728,sku728,Jeans,Home
+874,sku874,Headphones,Books
+607, SKU607 ,  Television  ,Books
+101,,gaming chair,Kitchen
+438,SKU438,,Appliances
+423,SKU_423,,Books
+639, sku-639,,Furniture
+458, sku-458,BLUETOOTH SPEAKER,Furniture
+279,sku279,Laptop,
+105, SKU105 ,TELEVISION,home 
+864,SKU864,  LED Bulb  ,Home
+865,SKU865,Headphones,Home
+273,SKU273,SMART TV,  electronics
+695,SKU_695,  Fiction Book  ,home 
+715,SKU_715,headphones,home 
+484,,HEADPHONES,
+739, sku-739,television,Books
+10,SKU10,smartwatch,Books
+520, SKU520 ,JEANS,  electronics
+380, sku-380,dslr,Books
+565,SKU_565,CHAIR,CLOTHING  
+662,sku662,  Sneakers  ,
+45, sku-45,mobile phone,
+872, sku-872,mobile phone,Furniture
+49,SKU49,smart tv,  electronics
+628,SKU_628,  Monitor  ,  electronics
+845,SKU845,Cooker,Electronics
+742,sku742,gaming chair,Books
+724, sku-724,Camera,Appliances
+915, sku-915,led bulb,CLOTHING  
+468,SKU468,  Router  ,home 
+926,SKU926,Television,
+812,,fiction book,Appliances
+191,,,Home
+217, sku-217,TROUSERS,
+531, sku-531,bluetooth speaker,Appliances
+820,SKU820,pen drive,Home
+986,SKU986,  Hard Disk  ,Kitchen
+241, sku-241,CHARGER,Electronics
+46,SKU_46,television,Home
+893,sku893,cooker,Home
