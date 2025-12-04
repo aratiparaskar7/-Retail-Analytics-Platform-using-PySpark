@@ -56,24 +56,25 @@ Using Spark SQL to answer business questions such as:
 
 ## 📁 Project Structure
 
+```plaintext
 Retail-Sales-Analytics-Pipeline/
 │
 ├── data/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/
+│   └── processed/
 │
 ├── notebooks/
-│ ├── 01_data_cleaning.ipynb
-│ ├── 02_etl_star_schema.ipynb
-│ └── 03_sql_analytics.ipynb
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_etl_star_schema.ipynb
+│   └── 03_sql_analytics.ipynb
 │
 ├── src/
-│ ├── data_cleaning.py
-│ ├── etl_star_schema.py
-│ └── sql_analytics.py
+│   ├── data_cleaning.py
+│   ├── etl_star_schema.py
+│   └── sql_analytics.py
 │
 ├── README.md
-└── requirements.txt
+```
 
 
 ---
